@@ -1,11 +1,11 @@
 ☕Bom dia  
-☀️Boa tarde
+☀️Boa tarde<br>
 🌕Boa noite
 
-Me chamo Bruno Costa Ghisi e sou acadêmico do tecnico Informática SATC!
+<h1>Me chamo Bruno Costa Ghisi!</h1>
 
-- 💻 Ainda estou cursando, porém já aprendi o básico de Python, Arduino UNO e SQL
-- 📝 Futuro Front End
+- 💻 Cursando informatica  2/4 , porém já aprendi o básico de Python, Arduino UNO e SQL
+- 📝 Futuro Front-End
 - 🦊 Atual presidente do Grêmio Estudantil
 - 📚 Sempre gostei de ler sobre filosofia
 - ♟️ Amante de Xadrez (1000 R)
