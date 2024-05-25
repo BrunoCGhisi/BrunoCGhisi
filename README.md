@@ -1,10 +1,23 @@
-☕Bom dia  
-☀️Boa tarde<br>
-🌕Boa noite
 
-<h1>Me chamo Bruno Costa Ghisi!</h1>
+##  ✌🏻 Olá! me chamo Bruno Costa Ghisi 
+📚 Atualmente cursando 3ºFase do Curso Técnico de Informática SATC
+<br>
+📍 SC - Criciúma
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width = "50cm" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width = "50cm" />
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/brunocostaghisi))
 
-          
- 
+
+![Meus Status](https://github-readme-stats.vercel.app/api?username=BrunoCghisi&show_icons=true&theme=calm)
+
+## Estou aprendendo
+<div style = "display:flex"> 
+    <section >
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
+    <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <br><br>
+    <img align="center" alt="Infos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunocGhisi&layout=compact&theme=calm" />
+    
+
+</div>
