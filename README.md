@@ -1,6 +1,6 @@
 
 ##  ✌🏻 Olá! me chamo Bruno Costa Ghisi 
-📚Atualmente cursando 3ºFase do Curso Técnico de Informática SATC
+📚Atualmente cursando 4ºFase do Curso Técnico de Informática SATC
 <br>
 📍 SC - Criciúma
 
