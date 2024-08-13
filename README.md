@@ -4,7 +4,7 @@
 <br>
 📍 SC - Criciúma
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/brunocostaghisi))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]((https://www.instagram.com/brunocostaghisi/))
 
 
 ![Meus Status](https://github-readme-stats.vercel.app/api?username=BrunoCghisi&show_icons=true&theme=calm)
