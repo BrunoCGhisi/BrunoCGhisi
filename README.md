@@ -8,8 +8,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ghisi-9b7793331/)
 
 
-
 ![Meus Status](https://github-readme-stats.vercel.app/api?username=BrunoCghisi&show_icons=true&theme=calm)
+
 
 ## Estou aprendendo
 <div style = "display:flex"> 
