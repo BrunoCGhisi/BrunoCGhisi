@@ -5,12 +5,8 @@
 
 ☕ Java, Python & ReactTS Developer <br>
 🎓 UniSATC - Software Engineering <br> 
-🎒 SATC - Technical Course in Informatics
-
-
-
-<br>
-📍 SC - Criciúma
+🎒 SATC - Technical Course in Informatics <br>
+📍  SC - Criciúma
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ghisi-9b7793331/)
 
@@ -18,7 +14,7 @@
 ![Meus Status](https://github-readme-stats.vercel.app/api?username=BrunoCghisi&show_icons=true&theme=calm)
 
 
-## Estou aprendendo
+## A curious mind, constantly learning:
 <div style = "display:flex"> 
     <section >
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
