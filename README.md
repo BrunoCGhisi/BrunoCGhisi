@@ -1,6 +1,10 @@
 
-##  ✌🏻 Olá! Me chamo Bruno Costa Ghisi 
-📚Atualmente cursando 4ºFase do Curso Técnico de Informática SATC
+## Hey there! I'm Bruno Ghisi, glad you're here!
+
+☕ Java, Python & ReactTS Developer
+🎓 UniSATC - Software Engineering
+🎒 SATC - Technical Course in Informatics
+
 <br>
 📍 SC - Criciúma
 
