@@ -23,6 +23,6 @@
     <img align="center" alt="type" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <section >
-    <br><br>
+    <br>
     <img align="center" alt="Infos" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunocGhisi&layout=compact&theme=calm" />
 </div>
