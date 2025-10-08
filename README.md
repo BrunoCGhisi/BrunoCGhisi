@@ -6,7 +6,7 @@
 ☕ Java, Python & ReactTS Developer <br>
 🎓 UniSATC - Software Engineering <br> 
 🎒 SATC - Technical Course in Informatics <br>
-📍  SC - Criciúma
+🌇 SC - Criciúma
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-ghisi-9b7793331/)
 
