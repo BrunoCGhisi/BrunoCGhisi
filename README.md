@@ -1,9 +1,13 @@
 
 ## Hey there! I'm Bruno Ghisi, glad you're here!
 
+<p>
+
 ☕ Java, Python & ReactTS Developer
 🎓 UniSATC - Software Engineering
 🎒 SATC - Technical Course in Informatics
+
+</p>
 
 <br>
 📍 SC - Criciúma
