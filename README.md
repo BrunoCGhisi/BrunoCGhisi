@@ -3,8 +3,8 @@
 
 
 
-<p> ☕ Java, Python & ReactTS Developer </p>
-<p> 🎓 UniSATC - Software Engineering </p> 
+☕ Java, Python & ReactTS Developer <br>
+🎓 UniSATC - Software Engineering <br> 
 🎒 SATC - Technical Course in Informatics
 
 
